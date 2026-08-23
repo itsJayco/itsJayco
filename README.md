@@ -1,65 +1,93 @@
-<p align="left">
-  <sub>JACOBO JIMÉNEZ · @ITSJAYCO · SPAIN / REMOTE</sub>
+![Jacob J. — Complex problems. Digital products that work.](./assets/profile-cover.png)
+
+<p align="center">
+  <strong>JACOBO JIMÉNEZ</strong> · @ITSJAYCO · SPAIN / REMOTE<br>
+  <a href="mailto:jacobojimenez08@gmail.com">EMAIL</a> ·
+  <a href="https://www.linkedin.com/in/dev-jacobojimenez/">LINKEDIN</a> ·
+  <a href="https://wa.me/34666523136">WHATSAPP</a>
 </p>
-
-# Jacob J.
-
-### I turn complex problems into digital products that work.
-
-Full-stack developer with 6+ years of experience building web experiences,
-business software and automations that make everyday work simpler.
-
-Portfolio: **jacobj.dev — launching soon** · [LinkedIn](https://www.linkedin.com/in/dev-jacobojimenez/) · [Email](mailto:jacobojimenez08@gmail.com) · [WhatsApp](https://wa.me/34666523136)
 
 ---
 
-## What I build
+## `02 / POSITION`
 
-| 01 | Web experiences | Fast, accessible websites and interfaces designed around a clear business goal. |
-|:--:|---|---|
-| 02 | Business software | Internal tools, dashboards and tailored systems that replace fragile manual processes. |
-| 03 | Automation | Connected workflows, APIs and integrations that save time and reduce repetitive work. |
-| 04 | Digital products | From an early idea to a maintainable product that is ready to evolve. |
+<img src="./assets/github-avatar-particles.png" width="235" align="right" alt="Particle portrait of Jacob J.">
 
-## How I work
+# I build the visible—and the systems that make it work.
 
-I work close to the problem—not only the implementation. I help define what is
-worth building, shape the experience, develop the system and prepare it for
-real use. The result should be useful, understandable and maintainable.
+I'm **Jacob J.**, a full-stack developer with more than six years of experience
+turning complex ideas and inefficient processes into clear, maintainable
+digital products.
+
+I work across product thinking, interface design and software engineering. That
+means I can help shape the right solution before writing the code—and carry it
+all the way to production.
+
+**Currently available for selected projects.**
+
+<br clear="right">
+
+---
+
+## `03 / CAPABILITIES`
+
+| 01 | 02 | 03 |
+|---|---|---|
+| **Web & product** | **Automation** | **Custom software** |
+| Websites, platforms and interfaces built around a real business objective. | Integrations and workflows that remove repetitive work and connect existing tools. | Internal systems, dashboards and products designed for the way a company actually operates. |
 
 ```text
-understand → simplify → design → build → measure → improve
+UNDERSTAND  →  SIMPLIFY  →  DESIGN  →  BUILD  →  MEASURE  →  IMPROVE
 ```
 
-## Core toolkit
+---
+
+## `04 / EXPERIENCE`
+
+| 6+ YEARS | END TO END | SPAIN / REMOTE |
+|:---|:---|:---|
+| Building and shipping software | Strategy, UX, development and delivery | Direct collaboration across teams and time zones |
+
+### The strongest work is not always public.
+
+Most of the products with the greatest business value in my career belong to
+companies and clients, so their repositories are private. This profile focuses
+on capability and decision-making rather than repository volume.
+
+In a conversation, I can walk through the problems I solved, the decisions I
+made, the systems I designed and the outcomes—without exposing confidential
+code or company information.
+
+---
+
+## `05 / TOOLKIT`
 
 **Product & interface**
 
-TypeScript · React · Next.js · Angular · Figma
+`TypeScript` · `React` · `Next.js` · `Angular` · `Figma`
 
 **Systems & APIs**
 
-Node.js · .NET / C# · Python · REST APIs · PostgreSQL · SQL Server
+`Node.js` · `.NET / C#` · `Python` · `REST APIs` · `PostgreSQL` · `SQL Server`
 
 **Delivery**
 
-Git · Docker · Azure · AWS · CI/CD
+`Git` · `Docker` · `Azure` · `AWS` · `CI/CD`
 
 > Tools change. The standard does not: clear thinking, solid execution and software that works.
 
-## Selected work
+---
 
-- **[Delay Tracking](https://github.com/ItsJayco/delay-tracking)** — an intelligent price-tracking system built with TypeScript.
-- **[Expense Control](https://github.com/ItsJayco/expense-control)** — a business-oriented expense management system built with C#.
-- **[Task Planner](https://github.com/ItsJayco/task-planner)** — a TypeScript product focused on planning and day-to-day execution.
+## `06 / CONTACT`
 
-## Let's build something useful
+# Have a problem worth solving?
 
-If your company has a process that wastes time, a website that no longer
-represents it, or an idea that needs a technical partner, let's talk.
+Tell me what you want to improve—even if the technical solution is not clear yet.
 
-**jacobj.dev — launching soon**
+[**START A CONVERSATION →**](mailto:jacobojimenez08@gmail.com)
 
-[jacobojimenez08@gmail.com](mailto:jacobojimenez08@gmail.com) · [LinkedIn](https://www.linkedin.com/in/dev-jacobojimenez/)
+`jacobj.dev — launching soon`
 
-<sub>Public name: Jacob J. · Professional name: Jacobo Jiménez · Technical handle: @ItsJayco</sub>
+---
+
+<sub>Public signature: <strong>Jacob J.</strong> · Professional name: <strong>Jacobo Jiménez</strong> · Technical handle: <strong>@ItsJayco</strong></sub>
