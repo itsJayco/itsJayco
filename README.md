@@ -86,7 +86,11 @@ Tell me what you want to improve—even if the technical solution is not clear y
 
 [**START A CONVERSATION →**](mailto:jacobojimenez08@gmail.com)
 
-`jacobj.dev — launching soon`
+[**jacobj.dev →**](https://jacobj.dev)
+
+---
+
+<sub>Public signature: <strong>Jacob J.</strong> · Professional name: <strong>Jacobo Jiménez</strong> · Technical handle: <strong>@ItsJayco</strong></sub>
 
 ---
 
