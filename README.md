@@ -92,6 +92,3 @@ Tell me what you want to improve—even if the technical solution is not clear y
 
 <sub>Public signature: <strong>Jacob J.</strong> · Professional name: <strong>Jacobo Jiménez</strong> · Technical handle: <strong>@ItsJayco</strong></sub>
 
----
-
-<sub>Public signature: <strong>Jacob J.</strong> · Professional name: <strong>Jacobo Jiménez</strong> · Technical handle: <strong>@ItsJayco</strong></sub>
